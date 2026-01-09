@@ -11,10 +11,10 @@
   },
   "hero": {
     "headline": "Digging the Moon, One Bucket at a Time.",
-    "subhead": "Autonomy • Perception • Dust-robust mechanisms",
+    "subhead": "Load, Haul, Dump (LHD) • Autonomy • Perception • Dust-resistance mechanisms",
     "ctaPrimary": {"label": "Meet the Team", "href": "/team"},
     "ctaSecondary": {"label": "Our Sponsors", "href": "/sponsors"},
-    "heroImage": "/images/hero/rover-render.jpg",
+    "heroImage": "/images/hero/titlepagemoon.jpg",
     "video": null
   }
 }
