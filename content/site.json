@@ -14,7 +14,7 @@
     "subhead": "Load, Haul, Dump (LHD) • Autonomy • Perception • Dust-resistance mechanisms",
     "ctaPrimary": {"label": "Meet the Team", "href": "/team"},
     "ctaSecondary": {"label": "Our Sponsors", "href": "/sponsors"},
-    "heroImage": "/images/hero/titlepagemoon.jpg",
+    "heroImage": null,
     "video": null
   }
 }
